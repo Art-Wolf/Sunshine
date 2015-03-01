@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/johndoyle/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/johndoyle/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-88ead10eb6a0031db1c361edcf20978be30cb318.jar" />
+    </item>
+    <item
+        jar="/Users/johndoyle/Development/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/johndoyle/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-05686ed2e651498a92b4094f7f3d7b01b67834b7.jar" />
+    </item>
+    <item
+        jar="/Users/johndoyle/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/johndoyle/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-46d6007805a738e2d891810a81adec37cfa947b5.jar" />
+    </item>
+    <item
+        jar="/Users/johndoyle/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/johndoyle/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-2fc939b0f2b84c8403bb2a159c85f79c1634f9ac.jar" />
+    </item>
+
+</items>
