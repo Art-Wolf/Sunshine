@@ -9,4 +9,5 @@
     <string name="lowTemp">-7</string>
     <string name="list_item_forecast">Today - Sunday - 88/68</string>
     <string name="action_refresh_menu">Refresh</string>
+    <string name="title_activity_detail">DetailActivity</string>
 </resources>
